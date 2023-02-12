@@ -1,0 +1,1 @@
+C:\Users\Computador\Desktop\Projects\simple-regex\build\classes\kotlin\main\SimpleRegexGenerator$Companion.class;C:\Users\Computador\Desktop\Projects\simple-regex\build\classes\kotlin\main\SimpleRegexGenerator.class

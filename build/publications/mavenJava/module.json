@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.guiodes",
+    "module": "simple-regex",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "simple-regex-1.0-SNAPSHOT.jar",
+          "url": "simple-regex-1.0-SNAPSHOT.jar",
+          "size": 1317,
+          "sha512": "a8fb5bc4d047f3ca43ee6b8e66f274be4545a45fc5ac7a58258e6ee59d24119424f2a516a5240f1d8b1e76c2de4212880c7f1ec407ae1769ca4acbb8f8dac868",
+          "sha256": "310623fc61e8c946eeb4038998b07ee6710120a4e806f1604e24b54d39dc42ce",
+          "sha1": "7b527ebdd45ad70e07046f9b5e49b30d4247a066",
+          "md5": "a6df7ccf61de0abea1033a4d749e47c8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "simple-regex-1.0-SNAPSHOT.jar",
+          "url": "simple-regex-1.0-SNAPSHOT.jar",
+          "size": 1317,
+          "sha512": "a8fb5bc4d047f3ca43ee6b8e66f274be4545a45fc5ac7a58258e6ee59d24119424f2a516a5240f1d8b1e76c2de4212880c7f1ec407ae1769ca4acbb8f8dac868",
+          "sha256": "310623fc61e8c946eeb4038998b07ee6710120a4e806f1604e24b54d39dc42ce",
+          "sha1": "7b527ebdd45ad70e07046f9b5e49b30d4247a066",
+          "md5": "a6df7ccf61de0abea1033a4d749e47c8"
+        }
+      ]
+    }
+  ]
+}
