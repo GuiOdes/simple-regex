@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SimpleRegexGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-12T15:58:50" hostname="DESKTOP-91G0B0A" time="0.022">
+<testsuite name="SimpleRegexGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-13T02:25:48" hostname="DESKTOP-91G0B0A" time="0.023">
   <properties/>
-  <testcase name="should validate character count of the regex at end of string()" classname="SimpleRegexGeneratorTest" time="0.022"/>
+  <testcase name="should validate documents and cep from presets()" classname="SimpleRegexGeneratorTest" time="0.023"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
